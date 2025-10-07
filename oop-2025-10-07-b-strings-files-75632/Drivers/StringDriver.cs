@@ -1,6 +1,7 @@
-﻿using oop_2025_10_07_b_strings_files_75632.Repositories;
+﻿using oop_2025_10_07_b_strings_files_75632.Models;
+using oop_2025_10_07_b_strings_files_75632.Repositories;
 
-namespace oop_2025_10_07_b_strings_files_75632.Models
+namespace oop_2025_10_07_b_strings_files_75632.Drivers
 {
     public static class StringDriver
     {
